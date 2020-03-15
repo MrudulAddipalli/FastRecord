@@ -8,3 +8,5 @@ This app records audio which are small in size compared to other applications in
 it creates file of size 5 Kb for 3 sec, audio where other applications are creating file of 49.9 Kb for 3 sec
 
 it uses AMR Encoding And Decoding Audio Codec for recording audio
+
+it requires WRITE_EXTERNAL_STORAGE , RECORD_AUDIO , VIBRATE permission to work properly
